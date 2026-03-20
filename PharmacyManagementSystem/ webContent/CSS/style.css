@@ -1,0 +1,127 @@
+/* General Page Style */
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:#f4f6f9;
+    margin:0;
+    padding:0;
+}
+
+/* Container */
+
+.container{
+    width:80%;
+    margin:auto;
+    margin-top:40px;
+}
+
+/* Headings */
+
+h1,h2{
+    text-align:center;
+    color:#333;
+}
+
+/* Login Box */
+
+.login-box{
+    width:350px;
+    margin:120px auto;
+    padding:25px;
+    background:white;
+    border-radius:8px;
+    box-shadow:0px 0px 10px rgba(0,0,0,0.2);
+}
+
+/* Forms */
+
+form{
+    background:white;
+    padding:20px;
+    border-radius:8px;
+    box-shadow:0px 0px 8px rgba(0,0,0,0.1);
+}
+
+/* Input Fields */
+
+input[type=text],
+input[type=password],
+input[type=number]{
+
+    width:100%;
+    padding:10px;
+    margin:8px 0;
+    border:1px solid #ccc;
+    border-radius:4px;
+}
+
+/* Buttons */
+
+input[type=submit],
+button{
+
+    width:100%;
+    padding:10px;
+    background:#007BFF;
+    color:white;
+    border:none;
+    border-radius:4px;
+    cursor:pointer;
+}
+
+input[type=submit]:hover,
+button:hover{
+    background:#0056b3;
+}
+
+/* Dashboard Links */
+
+a{
+    display:block;
+    width:200px;
+    text-align:center;
+    margin:10px auto;
+    padding:10px;
+    background:#28a745;
+    color:white;
+    text-decoration:none;
+    border-radius:5px;
+}
+
+a:hover{
+    background:#1e7e34;
+}
+
+/* Table Styling */
+
+table{
+    width:80%;
+    margin:auto;
+    border-collapse:collapse;
+    margin-top:20px;
+}
+
+table th{
+    background:#007BFF;
+    color:white;
+    padding:10px;
+}
+
+table td{
+    border:1px solid #ccc;
+    padding:10px;
+    text-align:center;
+}
+
+/* Action Links */
+
+table a{
+    background:#ffc107;
+    padding:6px 10px;
+    border-radius:4px;
+    color:black;
+}
+
+table a:hover{
+    background:#e0a800;
+}
