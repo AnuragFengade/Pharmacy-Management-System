@@ -34,3 +34,9 @@ Update stock in real-time
 🔹 User Interface
 Clean and responsive design
 Easy navigation for users
+
+📊 Key Functionalities
+CRUD operations for medicines
+Real-time stock updates
+Invoice generation system
+Database connectivity using JDBC
