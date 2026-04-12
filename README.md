@@ -40,3 +40,27 @@ CRUD operations for medicines
 Real-time stock updates
 Invoice generation system
 Database connectivity using JDBC
+
+🎯 Learning Outcomes
+Strong understanding of Java web development
+Hands-on experience with JSP & Servlets
+Database integration using MySQL
+Implementation of real-time CRUD operations
+
+💡 Challenges Faced
+Managing real-time stock updates during billing
+Handling database transactions efficiently
+
+🔧 Future Enhancements
+Add authentication & role-based access
+Convert to Spring Boot architecture
+Add online order & payment system
+Implement REST APIs
+
+👨‍💻 Author
+Anurag Ganesh Fengade
+Java Full Stack Developer
+Passionate about backend development
+
+⭐ Conclusion
+This project demonstrates practical implementation of Java web technologies and provides a real-world solution for managing pharmacy operations efficiently.
