@@ -15,3 +15,22 @@ Java (Core Java)
 JSP (Java Server Pages)
 Servlets
 MySQL (Database)
+
+🚀 Features
+🔹 Inventory Management
+Add, update, and delete medicines
+Track stock availability
+Alerts for low stock
+
+🔹 Billing System
+Generate invoices automatically
+Calculate total cost and taxes
+Print or download bills
+
+🔹 Order Management
+Process customer orders
+Update stock in real-time
+
+🔹 User Interface
+Clean and responsive design
+Easy navigation for users
