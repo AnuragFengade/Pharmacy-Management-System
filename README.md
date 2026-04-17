@@ -13,8 +13,11 @@ Improve operational efficiency
 🛠️ Tech Stack
 
 Java (Core Java)
+
 JSP (Java Server Pages)
+
 Servlets
+
 MySQL (Database)
 
 🚀 Features
