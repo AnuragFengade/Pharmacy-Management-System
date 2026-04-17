@@ -65,5 +65,7 @@ Passionate about building scalable applications
 - 💻 [GitHub]( https://github.com/AnuragFengade)
 
 - 🔗 [LinkedIn]( https://www.linkedin.com/in/anurag-fengade-910620255/)
+
 ⭐ Conclusion
+
 This project demonstrates practical implementation of Java web technologies and provides a real-world solution for managing pharmacy operations efficiently.
